@@ -1,0 +1,19 @@
+{
+    "name": "miro/jsonsuite",
+    "description": "Laravel json helper functions",
+    "require": {
+        "phpunit/phpunit": "3.7"
+    },
+    "autoload": {
+        "classmap":  [
+               "JSONSuite/JSONSuite.php" 
+            ]
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "miroslav",
+            "email": "miroslav.trninic@gmail.com"
+        }
+    ]
+}
